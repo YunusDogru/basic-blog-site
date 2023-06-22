@@ -1,0 +1,21 @@
+<template>
+        <Loading/>
+        <div class="wrapper">
+        <Loading/>
+        <TopBar/>
+        <NavBar/>
+        <Carousel/>
+        <Page2/>
+        <Page3/>
+        <CounterUp/>
+        <OurTeam/>
+        <Video/>
+        <Pricing/>
+        <Portfolio/>
+        <ContactUs/>
+        <Blogs/>
+        <Partners/>
+        <Footer/>
+       <BottomLink/>
+        </div>
+</template>
