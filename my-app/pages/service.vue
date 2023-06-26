@@ -11,6 +11,7 @@
         <Partners/>
         <CounterUp2/>
        <BottomLink/>
+        <Footer/>
         </div>
 </template>
 
